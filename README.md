@@ -1,1 +1,1 @@
-AndroidUIPageViewController is an Android version of iOS UIPageViewController. For more refer my tutorial.
+AndroidUIPageViewController is an Android version of iOS UIPageViewController. For more refer my tutorial at .
